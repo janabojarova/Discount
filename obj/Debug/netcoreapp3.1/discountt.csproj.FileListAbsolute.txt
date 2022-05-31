@@ -1,0 +1,13 @@
+/Users/janabojarova/Projects/discountt/bin/Debug/netcoreapp3.1/discountt.deps.json
+/Users/janabojarova/Projects/discountt/bin/Debug/netcoreapp3.1/discountt.runtimeconfig.json
+/Users/janabojarova/Projects/discountt/bin/Debug/netcoreapp3.1/discountt.runtimeconfig.dev.json
+/Users/janabojarova/Projects/discountt/bin/Debug/netcoreapp3.1/discountt.dll
+/Users/janabojarova/Projects/discountt/bin/Debug/netcoreapp3.1/discountt.pdb
+/Users/janabojarova/Projects/discountt/obj/Debug/netcoreapp3.1/discountt.csproj.AssemblyReference.cache
+/Users/janabojarova/Projects/discountt/obj/Debug/netcoreapp3.1/discountt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janabojarova/Projects/discountt/obj/Debug/netcoreapp3.1/discountt.AssemblyInfoInputs.cache
+/Users/janabojarova/Projects/discountt/obj/Debug/netcoreapp3.1/discountt.AssemblyInfo.cs
+/Users/janabojarova/Projects/discountt/obj/Debug/netcoreapp3.1/discountt.csproj.CoreCompileInputs.cache
+/Users/janabojarova/Projects/discountt/obj/Debug/netcoreapp3.1/discountt.dll
+/Users/janabojarova/Projects/discountt/obj/Debug/netcoreapp3.1/discountt.pdb
+/Users/janabojarova/Projects/discountt/obj/Debug/netcoreapp3.1/discountt.genruntimeconfig.cache
